@@ -1,5 +1,5 @@
 # Pleiades-Tracker
-Discord Bot to track TF2 servers and their status information, such as server name, map played, players online, and a quick join button!
+Discord Bot to track TF2 servers and their status information, such as server name, map played, players online, and a quick join button! This is a redacted version of the bot, as the main one had sensitive information. If you intend to use this for yourself, ensure that in the serverJoin variables you switchout REDACTED for whatever steam join link you are using.
 
 Packages Used:
 
